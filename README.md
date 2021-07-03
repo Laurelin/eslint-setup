@@ -1,7 +1,7 @@
 # eslint-setup
  This is my eslint/prettier setup for Next.js framework. It automatically formats semicolons, whitespace, and quotes - all you need to do is save your file.
 
-### setup
+### Setup
 
 `npm i -D prettier-eslint eslint-config-prettier eslint-plugin-prettier eslint-config-airbnb `
 
